@@ -84,3 +84,5 @@ gem "geocoder"
 gem 'speedtest'
 gem "blazer"
 gem 'bootstrap-datepicker-rails'
+gem 'i18n'
+gem 'rails-i18n'
