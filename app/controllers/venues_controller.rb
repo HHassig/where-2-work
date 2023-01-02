@@ -43,7 +43,6 @@ class VenuesController < ApplicationController
     @venues = Venue.all
   end
 
-
   private
 
   def venue_params
